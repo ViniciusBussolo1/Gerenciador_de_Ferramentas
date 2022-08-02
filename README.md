@@ -22,8 +22,8 @@ Os dados foram consumidos atraves de uma api que pode ser acessada a partir [des
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/ViniciusBussolo1/nlw-06-reactjs.git
-$ cd nlw-06-reactjs
+$ git clone https://github.com/ViniciusBussolo1/Gerenciador_de_Ferramentas.git
+$ cd VUTTR
 ```
 
 Para iniciá-lo, siga os passos abaixo:
